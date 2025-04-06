@@ -73,4 +73,13 @@ The full Arduino sketch is included in this repository.
 
 ---
 
+## 📄 License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You may share and adapt this work with proper attribution, but not for commercial purposes.
+
+📄 [View Full License Terms](https://creativecommons.org/licenses/by-nc/4.0/)
+
+---
+
 Made with ❤️ using Arduino and wireless magic.
