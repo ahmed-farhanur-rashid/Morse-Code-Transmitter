@@ -63,7 +63,7 @@ Install these using the **Library Manager** under **Sketch > Include Library > M
 
 The full Arduino sketch is included in this repository.
 
-➡️ [**View the Code**](./main.ino)
+➡️ [**View the Code**](./MorseCodeTransmitter.ino)
 
 ---
 
@@ -73,26 +73,4 @@ The full Arduino sketch is included in this repository.
 
 ---
 
-## 📹 YouTube Video Description (Optional)
-
-```markdown
-📡 Morse Code Interpreter using Arduino Uno | DLD Project Showcase
-
-This is a demonstration of our Morse Code Interpreter system built for our DLD course.
-
-🔧 Built With:
-- Arduino Uno
-- NRF24L01+ PA LNA
-- 16x2 LCD with I2C
-- 4 Tactile Buttons per unit
-
-Each unit can input Morse code, translate it to English characters, and wirelessly transmit the message. The device also receives incoming transmissions and displays them on the LCD.
-
-🎮 Button Controls:
-- Dot / Dash for input
-- Action for translate / space / delete
-- Transmit to send
-- Dot + Dash = Reset
-
-👨‍💻 GitHub Code:
-🔗 [Insert your repo link here]
+Made with ❤️ using Arduino and wireless magic.
